@@ -1,0 +1,11 @@
+{
+    "created": "2013-02-13 15:19:20",
+    "modified": "2013-02-13 15:19:20",
+	"name": "Example",
+	"settings" : {
+	    "EXAMPLE": 123
+	},
+	"requirements": [
+	    "pyyaml"
+	]
+}
